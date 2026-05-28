@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer)
+
+
 # 🎨 ArtByNishtha — Client Project Showcase
 
 A modern and responsive portfolio website developed for an artist to showcase artwork, creative services, and online presence.
@@ -48,7 +54,9 @@ While working on this client project, I improved my skills in:
 
 ## 🔒 Source Code
 
-The source code for this project is private because it was built for a client.
+This repository is a showcase of a client project.
+
+The source code remains private to respect client confidentiality.
 
 ## 👨‍💻 Developer
 
